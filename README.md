@@ -22,8 +22,6 @@ dependencies:
 require "CORAL"
 ```
 
-TODO: Write usage instructions here
-
 ## Contributing
 
 1. Fork it (<https://github.com/vardy/CORAL/fork>)
