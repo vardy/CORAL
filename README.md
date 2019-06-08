@@ -1,3 +1,3 @@
-# CORAL Lang
+# The CORAL Language
 
-🛑 Under construction 👷
+🛑 **Under Construction** 🛑
