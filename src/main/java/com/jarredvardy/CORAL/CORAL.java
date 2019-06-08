@@ -18,7 +18,8 @@
 
 package com.jarredvardy.CORAL;
 
-public class Coral {
+public class CORAL
+{
 
     public static void main(String[]args)
     {

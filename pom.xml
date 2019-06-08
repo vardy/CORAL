@@ -66,7 +66,7 @@
                         <manifest>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>/lib</classpathPrefix>
-                            <mainClass>com.jarredvardy.CORAL.Coral</mainClass>
+                            <mainClass>com.jarredvardy.CORAL.CORAL</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
