@@ -1,4 +1,4 @@
-/* Copyright 2017-2019 Jarred Vardy
+/* Copyright 2019 Jarred Vardy <jarredvardy@gmail.com>
  *
  * This file is part of CORAL.
  *
