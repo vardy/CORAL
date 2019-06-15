@@ -21,8 +21,8 @@ package com.jarredvardy.CORAL;
 public class CORAL
 {
 
-    public static void main(String[]args)
+    public static void main(String[] args)
     {
-        System.out.println("Hello world!");
+        String input = "int i = 5;";
     }
 }
