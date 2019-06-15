@@ -1,0 +1,30 @@
+#
+# Student.crl
+#
+
+import:
+    repo.Package
+    repo.Package.Class
+
+
+class Student is a Person implements Interface, Interface:
+
+    ##
+    #
+    # >returns string
+    define public methodName(t, b?, c...)->string:
+        string input = std.in();
+        std.out("You are " . input);
+
+
+
+#
+# Dependencies.crl
+#
+
+class Dependencies:
+    array(string) = [
+        name/Repo,
+        name/Repo,
+    ]
+
